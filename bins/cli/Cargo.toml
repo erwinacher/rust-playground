@@ -1,0 +1,11 @@
+[package]
+name = "cli"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+module_1 = { path = "../../libs/module_1" }
+module_2 = { path = "../../libs/module_2" }
+module_3 = { path = "../../libs/module_3" }
+
+

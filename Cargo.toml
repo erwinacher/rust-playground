@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    # libs
+    "libs/module_1",
+    "libs/module_2",
+    "libs/module_3",
+    # bins
+    "bins/cli",
+]
+
+# optional but helpful for consistent linting/testing
+resolver = "2"
+
+

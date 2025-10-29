@@ -1,0 +1,1 @@
+/home/ervin/workspace-reboot/rust-playground/target/debug/cli: /home/ervin/workspace-reboot/rust-playground/bins/cli/src/main.rs /home/ervin/workspace-reboot/rust-playground/libs/module_1/src/lib.rs /home/ervin/workspace-reboot/rust-playground/libs/module_2/src/lib.rs /home/ervin/workspace-reboot/rust-playground/libs/module_3/src/lib.rs
